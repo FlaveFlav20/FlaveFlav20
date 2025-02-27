@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="Flav20.png" width="800" height="400" alt="From bob_mervell" />
+    <img src="background_smol_no_flash_from_Bob_mervell.gif" width="800" height="400" alt="From Bob_mervell" />
 </div>
